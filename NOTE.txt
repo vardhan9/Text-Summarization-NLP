@@ -1,0 +1,16 @@
+Important to remember:
+
+
+All the end t oend implemention worked OK
+
+1. Data is trained on test set due to limited CPU resources
+2. Go through throughly research/text-summarizer.ipynb, 
+this notebook is available in kaggle. Trained with kaggle GPUs.
+3. This is end to end text summarization implementation of krish naik's course
+4. Raw data is pulled from ntbappy github, course instructor
+5. AWS implementation : NOT yet done
+6. artifacts are not uploaded, they are about 2.2GB.
+
+Improvements to be done:
+1. Train the model with train dataset, save it and evaluate it.
+2. After this update the ipynb note books with updated code and evalution metrics
